@@ -1,0 +1,6 @@
+@GS_Microsservicos_HostAddress = http://localhost:5221
+
+GET {{GS_Microsservicos_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

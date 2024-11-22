@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GS_Microsservicos", "GS_Microsservicos\GS_Microsservicos.csproj", "{533266FE-8C98-47F3-AF19-78AD197759DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{533266FE-8C98-47F3-AF19-78AD197759DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{533266FE-8C98-47F3-AF19-78AD197759DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{533266FE-8C98-47F3-AF19-78AD197759DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{533266FE-8C98-47F3-AF19-78AD197759DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E1A96E2-E2F4-4900-975C-6AF698546851}
+	EndGlobalSection
+EndGlobal
